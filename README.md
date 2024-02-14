@@ -1,7 +1,3 @@
-Certainly! Here's a simple README template you can use:
-
----
-
 # Dictionary Web Application
 
 ## Overview
@@ -44,5 +40,5 @@ Feel free to contribute to the project by opening issues or submitting pull requ
 
 ## Credits
 
-- Saad for creating the web application.
+- Saad 😁 for creating the web application.
 
